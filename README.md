@@ -20,7 +20,7 @@ You can extend your project further by:
 
 
 ### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
+*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own.*
 - Black Outfit from Reddit on index.html [Image Link] (https://www.reddit.com/r/popculturechat/comments/12d3619/seo_yejis_outfits_in_its_okay_to_not_be_okay_drama/?rdt=63895)
 - White Outfit from "So Not Size Zero" on index.html [Image Link] (https://sonotsizezero.com/products/business-proposal-shin-ha-ri-kim-se-jeong-inspired-dress-003)
 - Forest from "The Guardian" on index.html [Image Link] (https://www.theguardian.com/environment/2019/jun/08/forest-bathing-japanese-practice-in-west-wellbeing)

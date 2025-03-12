@@ -1,4 +1,5 @@
 /*Add your JavaScript here*/
+
 var okayScore = 0; //Store okay score 
 var proposalScore = 0; //Store proposal score
 
